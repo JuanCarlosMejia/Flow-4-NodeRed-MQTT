@@ -12,7 +12,7 @@ Este es el flow 4 y es el cuarto ejercicio el cual consta en mostrar la temperat
 # Material de referencia:
 - [Node Red Ubuntu 20.04](https://edu.codigoiot.com/enrol/index.php?id=817)
 
-# Intruciones: 
+# Instruciones: 
 A continuación se muestran los pasos para poder realizar el siguiente Flow
 
 -Arrancar NodeRed desde la terminal con el comando "node-red"
